@@ -37,7 +37,7 @@ form{
 
 .search-results{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
     margin-top: 20px;
